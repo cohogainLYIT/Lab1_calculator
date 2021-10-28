@@ -3,7 +3,8 @@ public class simple_calculator {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Simple calculator");
+		System.out.println("Simple calculator yuupp");
+		
 
 	}
 
