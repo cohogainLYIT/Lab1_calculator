@@ -1,9 +1,9 @@
 {
   "scanSettings": {
     "configMode": "AUTO",
-	"configExternalURL": "",
-	"projectToken": "",
-	"baseBranches": []
+    "configExternalURL": "",
+    "projectToken": "",
+    "baseBranches": []
   },
   "checkRunSettings": {
     "displayMode": "diff",
